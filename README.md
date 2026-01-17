@@ -42,6 +42,26 @@ I prefer **depth over noise** and document only **high-impact, real-world securi
 
 ---
 
+---
+
+### 🏆 Achievements
+
+- **Google Cybersecurity Professional Certificate**  
+  Demonstrated foundational knowledge across security operations, networking, and incident response
+  
+- **Certified Network Security Practitioner (CNSP) – SecOps Group**  
+  Demonstrated practical understanding of network security concepts, monitoring, and defensive controls
+  
+- **Zscaler Zero Trust Associate (ZTCA)**  
+  Validated understanding of Zero Trust architecture and modern enterprise security models
+  
+- **ISC2 Systems Security Certified Practitioner (SSCP) – Coursework Completed**  
+  Strong grounding in access control, risk management, and security operations concepts
+
+- **Hands-on CVE Research & Exploitation**  
+  Successfully reproduced and analyzed real-world vulnerabilities in controlled lab environments
+
+
 ### 🌐 Portfolio Website
 
 🔗 **https://prajwal-infosec.github.io**
