@@ -22,22 +22,11 @@ I prefer **depth over noise** and document only **high-impact, real-world securi
 
 ### 🛠️ Security Focus Areas
 
-![Web Security](https://img.shields.io/badge/Web%20Security-OWASP%20Top%2010-red)
-![API Security](https://img.shields.io/badge/API%20Security-REST-orange)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Attacks-blue)
-![Privilege Escalation](https://img.shields.io/badge/Privilege%20Escalation-Linux%20%7C%20Windows-critical)
-![CTFs](https://img.shields.io/badge/CTF-Challenge%20Design-informational)
-
----
-
-### 🎯 Current Focus
-
-- CPTS preparation
-- Web & API penetration testing
-- Cloud exposure & identity abuse
-- Active Directory attack paths
-- Linux & Windows privilege escalation
-- Penetration testing documentation & reporting
+- Web & API Security (OWASP-focused)
+- Cloud Exposure & Identity Abuse
+- Active Directory Attack Paths
+- Linux & Windows Privilege Escalation
+- Penetration Testing Reporting
 
 ---
 
